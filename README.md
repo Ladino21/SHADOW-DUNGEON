@@ -1,4 +1,4 @@
 # SHADOW-DUNGEON
-Debut de projet: 18 avril
+Status : In progress
 
-SHADOW DUNGEON est un jeu inspiré de l'animé Solo Leveling où le personnage principal que vous incarnez est un chasseur de rang E (rang le plus faible). L'objectif de ce jeu est de parvenir à monter en rang et de mettre fin à l'invasion dévastatrice des monstres !!
+SHADOW DUNGEON is a game inspired by the Solo Leveling anime, in which you play as the main character,an E-rank hunter (the lowest rank).The aim of the game is to climb the ranks and put an end to the devastating monster invasion!!
